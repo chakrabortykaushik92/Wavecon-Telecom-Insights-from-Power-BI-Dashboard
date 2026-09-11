@@ -62,6 +62,7 @@ While the new 5G plan showed strong initial uptake, the transition period expose
 
 ---
 
-## 📂 Links
-   Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNjA0ODE4NDUtYWJkNi00MmNhLWFjZDMtNTZmNGM1NTYyZWJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-   LinkedIn Post:
+## 📂 Project Links
+
+* 📊 **[Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjA0ODE4NDUtYWJkNi00MmNhLWFjZDMtNTZmNGM1NTYyZWJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+* 💼 **[LinkedIn Discussion & Post](https://www.linkedin.com/feed/update/urn:li:activity:7504218801568251905/)**
